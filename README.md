@@ -37,4 +37,4 @@ The code was tested on the publicly available Alzheimer's Disease Neuroimaging I
 
 Thanks to the Vision Research Laboratory at the University of California, Santa Barbara.
 
-For latest code updates, please follow this link https://github.com/s-shailja/ucsb_reeb.
+For latest code updates, please follow this link https://github.com/s-shailja/ReebGraph-1.
