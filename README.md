@@ -23,7 +23,7 @@ The code has been tested only on python version 3.7.
 `python ReebGrraphConstruction.py` will run the code on example track.
 
  To run the code on a given .trk file, follow these steps:
- 1. Store the appear, disappear, connect, and disconnect events for all pair of the trajectories. Run `python dic_dump.py` and use the same path as trkfolder. Note: change the eps parameter in the files. also, set the track files path.
+ 1. Store the appear, disappear, connect, and disconnect events for all pair of the trajectories. Run `python dic_dump.py` and use the same path as trkfolder. Note: change the eps parameter in the files. Also, set the track files path.
 
  2.`python R_properties.py` will run the code on the provided track. Please change the trkfolder and trkfolderI path in the file.
 An example .trk file and corresponding dictionary file have been included in the Data directory.
