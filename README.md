@@ -27,5 +27,11 @@ The code has been tested only on python version 3.7.
 
  2.`python R_properties.py` will run the code on the provided track. Please change the trkfolder and trkfolderI path in the file. You can compute the graph properites using this file.
 
+## Dataset
+
+The code was tested on the publicly available Alzheimer's Disease Neuroimaging Initiative (ADNI) [dataset](http://adni.loni.usc.edu/).
+## Acknowledgements
+
+Thanks to the Vision Research Laboratory at the University of California, Santa Barbara.
 
 For latest code updates, please follow this link https://github.com/s-shailja/ucsb_reeb.
