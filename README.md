@@ -26,10 +26,13 @@ The code has been tested only on python version 3.7.
  1. Store the appear, disappear, connect, and disconnect events for all pair of the trajectories. Run `python dic_dump.py` and use the same path as trkfolder. Note: change the eps parameter in the files. Also, set the track files path.
 
  2.`python R_properties.py` will run the code on the provided track. Please change the trkfolder and trkfolderI path in the file. You can compute the graph properites using this file.
+ 
+ An example .trk file has been included in the Data directory.
 
 ## Dataset
 
 The code was tested on the publicly available Alzheimer's Disease Neuroimaging Initiative (ADNI) [dataset](http://adni.loni.usc.edu/).
+
 ## Acknowledgements
 
 Thanks to the Vision Research Laboratory at the University of California, Santa Barbara.
